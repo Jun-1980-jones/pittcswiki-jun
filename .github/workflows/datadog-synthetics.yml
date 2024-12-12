@@ -5,7 +5,7 @@ optConfig:
   - acmesat-twooptConfig:
   optOutStrategy: true
 issueLabel: allstar-acme
-issueFooter: Issue created by Acme security team.optConfig:
+issueFooter: Issue created by Jones Technology Foundation team.optConfig:
   optOutStrategy: true
 action: issuehttps://github.com/Jun-1980-jones/allstar-jun.git# This workflow will trigger Datadog Synthetic tests within your Datadog organisation
 # For more information on running Synthetic tests within your GitHub workflows see: https://docs.datadoghq.com/synthetics/cicd_integrations/github_actions/
